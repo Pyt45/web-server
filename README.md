@@ -5,7 +5,7 @@
 
 *"This is when you finally understand why a URL starts with HTTP"*
 
-![Alt text](https://github.com/llefranc/42_webserv/blob/main/webserv_example.png)
+![Alt text](https://github.com/Pyt45/web-server/blob/main/webserv_example.png)
 
 ## About
 
