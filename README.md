@@ -35,7 +35,7 @@ Webserv need a configuration file that will be loaded at the beginning of the pr
 - `upload_path` -- to set a specific directory for upload requests.
 - `autoindex` -- to list all files present in the targeted directory.
 - `allowed_methods` -- to define the allowed methods for HTTP requests.
-- `cgi` -- to configure a cgi to execute for a specific file extenstion (php-cgi for .php files for example).
+- `fastcgi_pass` -- to configure a cgi to execute for a specific file extenstion (php-cgi for .php files for example, node for *.js and python for *.py).
 
 ![Alt text](https://github.com/llefranc/42_webserv/blob/main/config_file_example.png)
 
