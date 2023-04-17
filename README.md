@@ -75,3 +75,4 @@ You can fing more examples in `config` directory. `server1.com` is a directory w
 [1]: https://github.com/Pyt45/web-server/blob/main/webserv.en.subject.pdf
 [2]: https://github.com/medymik
 [3]: https://github.com/yslati
+
